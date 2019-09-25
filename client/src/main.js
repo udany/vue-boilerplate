@@ -7,7 +7,6 @@ import './css/main.scss'
 import './app/registerServiceWorker'
 import './app/bootstrapVue'
 import './app/fontAwesome'
-import './app/oldApi'
 import router from './app/router'
 import store from './store'
 

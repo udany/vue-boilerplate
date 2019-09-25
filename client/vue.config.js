@@ -8,7 +8,7 @@ const favicon = 'img/icons/favicon-256.png';
 module.exports = {
 	devServer: {
 		port: 8080,
-		host: 'local.website.com'
+		// host: 'local.website.com'
 	},
 	css: {
 		loaderOptions: {

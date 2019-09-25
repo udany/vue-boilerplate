@@ -4,7 +4,8 @@
 		<b-container fluid>
 			<b-row align-h="between">
 				<b-col cols="auto" class="p-0">
-					HEADER
+					HEADER <br>
+					<router-link to="/">Home</router-link> - <router-link to="/about">About</router-link>
 				</b-col>
 			</b-row>
 		</b-container>
